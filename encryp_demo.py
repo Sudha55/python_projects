@@ -15,7 +15,7 @@ toaddr="receiver@gmail.com"
 password="password"
 # Virtru Variables
 virtru_appid = "4f3aa9c5-1eb3-4c6e-962c-ffb720091f19"
-virtru_owner = "mehendibutwal@gmail.com"
+virtru_owner = "sender@gmail.com"
 # File Variables
 file_name_tdf = "cron_text.txt"
 file_path_plain="cron_text.txt"
