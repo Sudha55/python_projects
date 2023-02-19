@@ -7,12 +7,12 @@ from virtru_tdf3_python import Client, Policy, EncryptFileParam, LogLevel, Proto
 
 
 # SMTP Variables
-smtp_from_address = "mehendibutwal@gmail.com"
-smtp_to_address = "drainthapa@gmail.com"
+smtp_from_address = "sender@gmail.com"
+smtp_to_address = "receiver@gmail.com"
 
-fromaddr="mehendibutwal@gmail.com"
-toaddr="drainthapa@gmail.com"
-password="Deoki31!"
+fromaddr="sender@gmail.com"
+toaddr="receiver@gmail.com"
+password="password"
 # Virtru Variables
 virtru_appid = "4f3aa9c5-1eb3-4c6e-962c-ffb720091f19"
 virtru_owner = "mehendibutwal@gmail.com"
